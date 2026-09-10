@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542375864425",
+    "project_id": "appturistica-b73f1",
+    "storage_bucket": "appturistica-b73f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542375864425:android:13738138e2004b663e5af8",
+        "android_client_info": {
+          "package_name": "com.example.appturistica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCeRUOmBAVB7L2XQEbm6-XLUxhjfiVguc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
