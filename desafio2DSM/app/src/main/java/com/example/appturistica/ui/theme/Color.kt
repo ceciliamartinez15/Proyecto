@@ -2,10 +2,14 @@ package com.example.appturistica.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Paleta AppTuristica
+val TealPrimary = Color(0xFF009688)
+val TealPrimaryDark = Color(0xFF00796B)
+val OrangeAccent = Color(0xFFFF6E40)
+val BackgroundLight = Color(0xFFFFFFFF)
+val TextDark = Color(0xFF212121)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// Variantes para modo oscuro
+val TealPrimaryDarkMode = Color(0xFF4DB6AC)
+val OrangeAccentDarkMode = Color(0xFFFFAB91)
+val BackgroundDarkMode = Color(0xFF121212)
